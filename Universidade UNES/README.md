@@ -1,2 +1,2 @@
 # Universidade UNES
- Projeto realizado para prativar tabelas. HTML5 
+ Projeto fictício realizado para praticar tabelas. HTML5 
